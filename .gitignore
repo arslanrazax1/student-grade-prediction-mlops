@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+venv311/
+venv311b/
+venv311f/
+backend/venv/
+backend/venv311/
+backend/venv311b/
+frontend/venv/
+frontend/venv311/
+frontend/venv311f/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
