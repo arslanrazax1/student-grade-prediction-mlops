@@ -1,5 +1,7 @@
 venv/
 venv311/
+venv311f
+venv311f/
 __pycache__/
 *.pyc
 .git/
